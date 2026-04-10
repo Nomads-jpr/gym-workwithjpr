@@ -1,0 +1,33 @@
+# JPR Gym Digital
+
+> Professionelle Websites für Kampfsport-Gyms. Mehr Probetrainings, weniger Technik-Kopfschmerzen.
+
+## Über uns
+
+JPR Gym Digital ist ein spezialisiertes Webdesign-Angebot der JPR Consulting GmbH, Berlin. Wir bauen Websites ausschließlich für Kampfsport-Gyms — Muay Thai, Boxen, MMA, BJJ, Karate, Kickboxen. Kein WordPress, keine SaaS-Abhängigkeit.
+
+## Leistungen
+
+- Moderne Gym-Websites (mobil optimiert, schnell, dark theme)
+- Online-Probetraining-Buchung (direkt auf der Website)
+- Digitale Mitgliederverwaltung (Verträge, Beiträge, Kündigungen)
+- Interaktiver Trainingsplan (immer aktuell, änderbar)
+- Google-Sichtbarkeit (lokale SEO für deinen Bezirk)
+- DSGVO-konform (keine externen Fonts, korrektes Impressum)
+
+## Pakete
+
+- Starter: ab 1.500€ — Website, Trainingsplan, Probetraining-Formular
+- Fighter: ab 2.500€ — + Online-Buchung, SEO, Trainer-Profile (meistgebucht)
+- Champion: ab 4.500€ — + Mitgliederverwaltung, digitale Verträge, Prioritäts-Support
+
+## Referenz
+
+- Muay Thai Subyen e.V. (Berlin) — Berlins einziges durch die Thailand Sports Authority zertifiziertes Muay Thai Gym. Website mit Online-Buchung, Mitgliederverwaltung, Online-Verträgen. ~5 neue Interessenten pro Woche seit Launch. https://www.muaythai-subyen.de
+
+## Kontakt
+
+- Website: https://gym.workwithjpr.com
+- E-Mail: jan@workwithjpr.com
+- Telefon: +49 176 31 50 4123
+- Standort: Berlin
