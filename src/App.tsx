@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import {
   Phone, Mail, MapPin, ChevronDown, ExternalLink, Check,
   Users, Calendar, FileText, Search, Clock, TrendingUp,
-  Star, Shield, Zap, MessageSquare, ArrowRight, X, Award, Target
+  Star, Shield, MessageSquare, ArrowRight, X, Award, Target
 } from 'lucide-react';
 
 /* ─── Hook: scroll‑triggered visibility ─── */
